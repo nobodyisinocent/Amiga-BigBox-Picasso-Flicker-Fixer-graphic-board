@@ -21,7 +21,7 @@ I want to thanks a lot my friends Lolof and Seb132 ! ;-)
 
 # Some pictures ? <a name="P2"></a>
   
-The PCB in 3D Raytracing !
+The PCB in raytraced view !
 ![Picasso_FF_V0 9-Board-3D](https://user-images.githubusercontent.com/80821708/192138232-0980a8f4-f7ab-41ed-835d-e44e98105e04.png)
 
 PCB with silkscreen:
