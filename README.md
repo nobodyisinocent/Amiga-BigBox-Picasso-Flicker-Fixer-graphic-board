@@ -1,14 +1,20 @@
 # Amiga BigBox Picasso Flicker Fixed graphic board
+
+# Table of contents
+1. [What that ?!](#What that ?)
+2. [Some pictures](#Some pictures)
+3. [Project files](#Project files)
+
+# What that ? <a name="What that ?"></a>
 Here is a Picasso 4MB Flicker Fixed for Amiga 2000, 3000 &amp; 4000
 
 This board is designed from the two following projects:
   - The 4MB Picasso Board V3.3 from Georg Braun (No official Website anymore),
   - The MultiFix AGA from Matthias Heinrichs aka Matze on A1k.org. The link of his project is available here:  
   https://gitlab.com/MHeinrichs/multifix-aga
+    
+# What that ? <a name="What that ?"></a>
   
-No files available actually here.
-The Kicad project is finalized. I'll perhaps launch a production for some PCB. After assembling, if the board run fine, I put here the gerber files. Please remember that it's a personnal projet, it's not for commercial purpose. 
-
 The PCB in 3D Raytracing !
 ![Picasso_FF_V0 9-Board-3D](https://user-images.githubusercontent.com/80821708/192138232-0980a8f4-f7ab-41ed-835d-e44e98105e04.png)
 
@@ -25,3 +31,9 @@ Second inside layer:
 
 Back layer:
 ![Picasso_FF_V0 9-Board-Back](https://user-images.githubusercontent.com/80821708/192138207-c43ad853-ff0e-43da-a6f0-e8d194fdb732.png)
+  
+  
+# Project files <a name="Project files"></a>
+  
+Sorry, no files available actually here.
+The Kicad project is finalized. I'll perhaps launch a production for some PCB. After assembling, if the board run fine, I put here the gerber files. Please remember that it's a personnal projet, it's not for commercial purpose.  
