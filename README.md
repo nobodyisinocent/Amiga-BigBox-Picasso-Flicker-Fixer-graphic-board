@@ -13,7 +13,7 @@ This board is designed from the two following projects:
   - The MultiFix AGA from Matthias Heinrichs aka Matze on A1k.org. The link of his project is available here:  
   https://gitlab.com/MHeinrichs/multifix-aga
     
-# What that ? <a name="What that ?"></a>
+# Some pictures ? <a name="Some pictures"></a>
   
 The PCB in 3D Raytracing !
 ![Picasso_FF_V0 9-Board-3D](https://user-images.githubusercontent.com/80821708/192138232-0980a8f4-f7ab-41ed-835d-e44e98105e04.png)
