@@ -41,4 +41,4 @@ Back layer:
 # Project files <a name="P3"></a>
   
 Sorry, no files available actually here.
-The Kicad project is finalized. I'll perhaps launch a production for some PCB. After assembling, if the board run fine, I put here the gerber files. Please remember that it's a personnal projet, it's not for commercial purpose.  
+The Kicad project is finalized. I'll perhaps launch a production for some PCB. After assembling, if the board run fine, I'll put here the gerber files. Please remember that it's a personnal projet, it's not for commercial purpose.  
