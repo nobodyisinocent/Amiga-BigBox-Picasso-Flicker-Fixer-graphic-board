@@ -1,2 +1,2 @@
-# Amiga-BigBox-Picasso-Flicker-Fixed-graphic-board
+# Amiga BigBox Picasso Flicker Fixed graphic board
 Here is a Picasso 4MB Flicker Fixed for Amiga 2000, 3000 &amp; 4000
