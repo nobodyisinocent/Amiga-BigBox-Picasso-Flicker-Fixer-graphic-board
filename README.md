@@ -7,5 +7,5 @@ This board is designed from the two following projects:
   https://gitlab.com/MHeinrichs/multifix-aga
   
 No files available actually here.
-The Kicad project is finalized. If I launch a production for some PCB and I assemble one for tests, I put here the gerber files.
-Please remember that it's a personnal projet. 
+The Kicad project is finalized. I'll perhaps launch a production for some PCB. After assembling, if the board run fine, I put here the gerber files. Please remember that it's a personnal projet, it's not for commercial purpose. 
+
