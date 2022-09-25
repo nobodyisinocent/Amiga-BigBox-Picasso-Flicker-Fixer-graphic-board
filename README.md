@@ -13,6 +13,10 @@ This board is designed from the two following projects:
   - The MultiFix AGA from Matthias Heinrichs aka Matze on A1k.org. The link of his project is available here:  
   https://gitlab.com/MHeinrichs/multifix-aga
     
+The Picasso is made of two PCBs. The main one includes the designs of the Picasso and of the Flicker Fixer. The second one is a little Edge PCB which must be connected into the video slot of the Amiga. It's used for the Flicked fixer. In an Amiga 4000, the Edge PCB is onto the same axis as the Zorro edge slot. In the Amiga 2000, the Edge PCB must be connected into the video slod which located between its PSU and its cover case. Two ribbon cables as used to connect the Edge PCB to the Flicker Fixer part of the board. 
+
+To be useful onto an Amiga 200, you'll need an accelerator board with fast memory (64MB is perfect)  
+
 # Some pictures ? <a name="P2"></a>
   
 The PCB in 3D Raytracing !
