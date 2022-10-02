@@ -15,7 +15,7 @@ This board is designed from the two following projects:
     
 The Picasso graphic board is made of two PCBs. The main one includes the designs of the Picasso and of the Flicker Fixer. The second one is a little male slot connector PCB which must be connected into the video slot of the Amiga. It's used for the Flicked fixer. In an Amiga 4000, this little PCB is onto the same axis as the Zorro edge slot. In the Amiga 2000, it must be connected into the video slot which located between its PSU and its cover case. Two ribbon cables as used to connect this PCB to the Flicker Fixer part of the board. 
 
-To be useful onto an Amiga 200, you'll need an accelerator board with fast memory (64MB is perfect) 
+To be useful onto an Amiga 2000, you'll need an accelerator board with fast memory (64MB is perfect) 
 
 I want to thanks a lot my friends Lolof and Seb132 ! ;-)
 
