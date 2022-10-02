@@ -10,7 +10,8 @@ This is a Picasso 4MB Flicker Fixed graphic board for Amiga 2000, 3000 &amp; 400
 
 This board is designed from the two following projects:
   - The GBA1000 4MB Picasso Board V3.3 from Georg Braun (No official Website anymore),
-  - The MultiFix AGA from Matthias Heinrichs aka Matze on A1k.org. The link of his project is available here:  
+  - The MultiFix AGA from Matthias Heinrichs aka Matze on A1k.org. It's an ECS and AGA-combo scandoubler and flicker fixer.
+  The link of his project is available here:  
   https://gitlab.com/MHeinrichs/multifix-aga
     
 The Picasso graphic board is made of two PCBs. The main one includes the designs of the Picasso and of the Flicker Fixer. The second one is a little male slot connector PCB which must be connected into the video slot of the Amiga. It's used for the Flicked fixer. In an Amiga 4000, this little PCB is onto the same axis as the Zorro edge slot. In the Amiga 2000, it must be connected into the video slot which located between its PSU and its cover case. Two ribbon cables as used to connect this PCB to the Flicker Fixer part of the board. 
