@@ -1,13 +1,19 @@
 # Amiga BigBox Picasso Flicker Fixed graphic board V0.9
 
 # Table of contents
-1. [What that ?](#1)
-2. [Some pictures](#2)
-3. [Project files](#3)
-4. [Interactive HTML BOM](#4)
+1. [What's new here ?](#0)
+2. [What that ?](#1)
+3. [Some pictures](#2)
+4. [Project files](#3)
+5. [Interactive HTML BOM](#4)
+
+# What's new here ? <a name="0"></a>
+- Project migrated under Kicad 6.0.2,
+- Interactive HTML BOM generated.
 
 # What that ? <a name="1"></a>
-This is a Picasso 4MB Flicker Fixed graphic board for Amiga 2000, 3000 &amp; 4000 designed with Kicad 5.1.12 under Linux Mint.
+This is a Picasso 4MB Flicker Fixed graphic board for Amiga 2000, 3000 &amp; 4000 initialy designed with Kicad 5.1.12 under Linux Mint.
+Now, project is developped under Kicad 6.0.2 under Linux Mint 21.1.
 
 This board is designed from the two following projects:
   - The GBA1000 4MB Picasso Board V3.3 from Georg Braun (No official Website anymore),
