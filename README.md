@@ -4,6 +4,7 @@
 1. [What that ?](#1)
 2. [Some pictures](#2)
 3. [Project files](#3)
+4. [Interactive HTML BOM](#4)
 
 # What that ? <a name="1"></a>
 This is a Picasso 4MB Flicker Fixed graphic board for Amiga 2000, 3000 &amp; 4000 designed with Kicad 5.1.12 under Linux Mint.
@@ -44,4 +45,10 @@ Back layer:
 # Project files <a name="3"></a>
   
 Sorry, no file available actually here.
-The Kicad project is finalized. I'll perhaps launch a production for some PCB. After assembling, if the board run fine, I'll put here the gerber files. Please remember that this is a personnal projet, it's not for commercial purpose.  
+The Kicad project is finalized. I'll perhaps launch a production for some PCB. After assembling, if the board run fine, I'll put here the gerber files. Please remember that this is a personnal projet, it's not for commercial purpose.
+
+# Interactive HTML BOM <a name="4"></a>
+For the assembling of the board, an interactive HTML BOM generated under Kicad will be available here!
+
+![image](https://github.com/nobodyisinocent/Amiga-BigBox-Picasso-Flicker-Fixer-graphic-board/assets/80821708/9f5236b9-a6b9-4034-9ae6-0d34c69d1015)
+
