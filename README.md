@@ -12,7 +12,7 @@
 
 ![image](https://github.com/nobodyisinocent/Amiga-BigBox-Picasso-Flicker-Fixer-graphic-board/assets/80821708/cfd2dcb2-e4dd-43af-b72b-f824fb010bcb)
 
-Footprint used: Jack_3.5mm_CUI_SJ1-3535NG
+Footprint used now is: Jack_3.5mm_CUI_SJ1-3535NG
 
 ![image](https://github.com/nobodyisinocent/Amiga-BigBox-Picasso-Flicker-Fixer-graphic-board/assets/80821708/253f6a4d-b3f2-4f20-9715-ceb9226bdec1)
 
