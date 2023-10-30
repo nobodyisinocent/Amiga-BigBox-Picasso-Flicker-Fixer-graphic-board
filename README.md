@@ -8,7 +8,12 @@
 5. [Interactive HTML BOM](#4)
 
 # What's new here ? <a name="0"></a>
-- Project migrated under Kicad 6.0.2,
+- 21/10/2023: Change footprint of jack connector to avoid mechanical conflict with Amiga case as showned in picture below.
+
+![image](https://github.com/nobodyisinocent/Amiga-BigBox-Picasso-Flicker-Fixer-graphic-board/assets/80821708/cfd2dcb2-e4dd-43af-b72b-f824fb010bcb)
+
+
+- 10/2023 : Project migrated under Kicad <del>6.0.2</del> 7.0.8,
 - Interactive HTML BOM generated.
 
 # What that ? <a name="1"></a>
